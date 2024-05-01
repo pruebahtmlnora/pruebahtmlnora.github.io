@@ -14,7 +14,7 @@ body{
 /* DISPLAY CELULAR */
 @media (max-width: 767px){
     .Body{
-        margin-top: -115%;
+        margin-top: -140%;
         width: 95vw;
         padding-left: 1%;
     }
