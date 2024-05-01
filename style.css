@@ -14,10 +14,11 @@ body{
 /* DISPLAY CELULAR */
 @media (max-width: 767px){
     .Body{
-        margin-top: -90vh;
         width: 95vw;
         padding-left: 1%;
     }
+    .celular{
+        margin-top: -90vh;}
     .Slider-cel{
         z-index: 1;
     }
